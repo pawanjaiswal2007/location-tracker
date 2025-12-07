@@ -1,0 +1,9 @@
+POST   /api/location/track       - Track new location
+GET    /api/location/latest      - Get latest location
+GET    /api/location/history     - Get all locations
+GET    /api/location/stats       - Get statistics
+POST   /api/location/distance    - Calculate distance
+GET    /api/users                - Get all users
+DELETE /api/location/delete/:id  - Delete record
+GET    /api/health               - Server status
+GET    /api/info                 - API information

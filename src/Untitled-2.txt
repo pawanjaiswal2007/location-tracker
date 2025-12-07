@@ -1,0 +1,1 @@
+https://www.openstreetmap.org/?mlat=YOUR_LAT&mlon=YOUR_LON&zoom=18
